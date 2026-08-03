@@ -1,0 +1,16 @@
+.
+├── inventario.txt
+├── practica01
+│   ├── Archivo.txt
+│   ├── Ensayo.txt
+│   └── Prueba.txt
+├── practica02
+│   ├── Archivo.cpp
+│   ├── Ensayo.cpp
+│   └── Prueba.cpp
+└── practica03
+    ├── Archivo.py
+    ├── Ensayo.py
+    └── Prueba.py
+
+4 directories, 10 files
